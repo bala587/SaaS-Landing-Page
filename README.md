@@ -32,7 +32,7 @@ npm install
 ### Start Your App
 
 ``` shell
- npm run dev
+npm run dev
 ```
   
 
