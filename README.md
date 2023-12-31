@@ -1,39 +1,42 @@
-# Saas-wallet
-A SaaS landing page built with Nextjs 14, Typescript, Tailwind and Shadcn
+# SaaS Landing Page
 
-# ☁️ Deployed link
-https://saas-wallet.vercel.app/
+![final output ](https://in.pinterest.com/pin/1030761433451714790)
 
-Youtube: https://youtu.be/TB5lqE8k3Gs
+🚀 Delivered a polished SaaS landing page using Next.js, fusing contemporary design with top-notch functionality. 💡 Powered by React and server-side rendering for blazing-fast performance, it ensures a seamless user journey. 🎨 Responsive and intuitively designed, it captivates visitors, effectively conveying the SaaS value proposition. 🌐 Dynamic content and interactive elements boost engagement, creating a compelling entry point for potential users. 💻 A harmonious blend of aesthetics and technical prowess, the Next.js SaaS landing page is a standout success!
 
-Figma: https://www.figma.com/file/0AXJeBgWtD1YFf2z95Yxlx/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS-(Community)-(Copy)?node-id=0%3A1&mode=dev
+🔍 Key Features:
 
-# 💻 Desktop View
-![Home](https://github.com/PiusLucky/saas-wallet/assets/32282934/890d4b44-36bb-4dff-aab3-b4ff232f6dff)
+- Modern UI/UX Design
+- Scalability and Performance
+- Next.js Integratio
+- Responsive Design
+- Branding Consistency
+- Intuitive Navigation
+- Mobile-First Approach
+- Engaging Visuals
+- User-Focused Imagery
+- Seamless Integration with Analytics
 
-# 📱 Mobile View
-![screencapture-localhost-3000-2023-12-24-14_49_12](https://github.com/PiusLucky/saas-wallet/assets/32282934/c6fdb464-d27d-45bb-8b22-4e05c11ea04b)
+### Cloning the repository
 
-
-# ⛏️ Installation
-To follow along the tutorial. Change to the starter branch  after cloning the repo.
-Then install the npm packages & run
-```bash
-npm install && npm run dev
+```shell
+git clone https://github.com/bala587/SaaS-Landing-Page.git
 ```
 
+### Install packages 
 
-## 🔓 Stack
-- Next14
-- Typescript
-- Shadcn
-- Tailwind
+```shell
+npm install
+```
 
-## 🔓 Benefits
-- Mobile Responsiveness
-- Learn all the stack in one video
+### Start Your App
 
-## Author
-Built with love ❤️ by Pius Lucky https://luckypius.netlify.app/
+``` shell
+ npm run dev
+```
+  
+
+
+
 
 
